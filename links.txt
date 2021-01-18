@@ -1,0 +1,21 @@
+bootsnipp.com/snippets/X2bG0
+
+imagenes png
+https://es.pngtree.com/freepng/vector-users-icon_3762775.html
+mas seguro
+https://pixabay.com/es/vectors/documentos-carpeta-oficina-texto-158461/
+
+
+alertas
+https://sweetalert.js.org/guides/
+
+menu
+
+https://startbootstrap.com/snippets/navbar-logo/
+
+
+iconos
+https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself 
+
+data table
+https://www.datatables.net/examples/styling/bootstrap4.html
